@@ -1,1 +1,1 @@
-# RainFall prediction in Australia
+# Rainfall prediction in Australia
